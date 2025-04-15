@@ -1,5 +1,5 @@
+package com.example.checkersgroupproject;
 import java.util.ArrayList;
-
 
 public class Board { 
 
