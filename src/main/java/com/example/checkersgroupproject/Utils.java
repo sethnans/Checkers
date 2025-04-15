@@ -1,3 +1,5 @@
+package com.example.checkersgroupproject;
+
 import java.util.Scanner;
 
 public class Utils {
