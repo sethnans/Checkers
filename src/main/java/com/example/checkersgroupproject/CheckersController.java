@@ -2,6 +2,7 @@ package com.example.checkersgroupproject;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
+import javafx.scene.control.TextArea;
 import javafx.scene.control.TextField;
 
 public class CheckersController {
@@ -9,10 +10,10 @@ public class CheckersController {
     Player player;
 
     @FXML
-    private Label boardLabel;
+    private TextArea boardLabel;
 
     @FXML
-    private Label movesLabel;
+    private TextArea movesLabel;
 
     @FXML
     private TextField inputTextField;
