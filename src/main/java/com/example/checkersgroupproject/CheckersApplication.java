@@ -9,7 +9,7 @@ import javafx.stage.Stage;
 public class CheckersApplication extends Application {
     @Override
     public void start(Stage stage) throws Exception {
-        Parent root = FXMLLoader.load(getClass().getResource("Checkersv2.fxml"));
+        Parent root = FXMLLoader.load(getClass().getResource("Checkersv3.fxml"));
 
         Scene scene = new Scene(root);
         stage.setTitle("Checkers");
